@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-04-29T15:00:30.728Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002 - NAMAN",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-04-26T03:29:52.320Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "Changed AWS Setting on S3 Bucket",
+      "attention": true,
+      "tech": "Sarika",
+      "date": "2020-04-26T02:31:04.142Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "sarika",
+      "lastName": "priya",
+      "id": 5
+    }
+  ]
+}
